@@ -1,9 +1,10 @@
+
 # Project Brief
-*_Peter Cheung, version 1.0, 6 March 2024_*
+*_Peter Cheung, version 1.1, 5 March 2025_*
 
 This document serves as the project specification for the DVS module. The objective of this project is to challenge you to design and implement a visual-based application. You are expected to work in pairs. I recommend that you use Matlab for the project because all previous exercises have been using Matlab.  However, you are free to choose other means such as Python with OpenCV, Javascript or even C++.
 
-The project is open-ended in the sense that you and your partner determine what you want to achieve in this project.  Given that the weighting for this project is only 25% of the entire module, I suggest that you set your goal at a level consistent with the effort you require to deliver the result within the tinme available.  However, I encourage you to be as ambitious as possible without over-stretching yourself.  
+The project is open-ended in the sense that you and your partner determine what you want to achieve in this project.  Given that the weighting for this project is only 25% of the entire module, I suggest that you set your goals at a level consistent with the effort you require to deliver the result within the tinme available.  However, I encourage you to be as ambitious as possible without over-stretching yourself.  
 
 This project should not require any hardware, although if you need to use a webcam for live data processing, one can be provided.
 
@@ -36,7 +37,7 @@ The project you decide upon may need datasets not mentioned above. There are man
 
 ##  Deliverables
 
-You and your partner are expected to submit the deliverables from this project via a GitHub repository, one per pair.  The deadline is 4.00pm on Friday 22 March (last day of the Spring term).  
+You and your partner are expected to submit the deliverables from this project via a GitHub repository, one per pair.  The deadline is 4.00pm on Friday 21 March 2025(last day of the Spring term).  
 
 In this repository, you must provide:
 1.  A short **team report** as a README.md file in the Github repo main folder.  This should contain the following:
@@ -45,9 +46,9 @@ In this repository, you must provide:
     * Evidences that your application is working;
     * An evaluation of your application, including what it can and cannot do;
 
-2.  Each member provide a **person statement** declaring what you personally have contributed to the project, a reflection section on what you have learned, reasons for your design decisions, mistakes you have made and what you would do differently if you were to do this again.
+2.  Each member provides a **person statement** declaring what you personally have contributed to the project, a reflection section on what you have learned, reasons for your design decisions, mistakes you have made and what you would do differently if you were to do this again.
 3.  A folder that contains all the code that your team has developed to implement the application.
 
 ##  Assessment Criteria
 
-This work will be assessed on your competency in processing and handling visual data, the level of difficulties in the task(s) you have chosen to solve and the extend that you have achieved the goals that you have set out.   To get the top grade, you need to surprise me!
+This work will be assessed on your competency in processing and handling visual data, the level of difficulties in the task(s) you have chosen to solve and the extend to which you have achieved the goals that you have set out.   To get the top grade, you need to surprise me!
